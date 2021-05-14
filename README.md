@@ -2,8 +2,7 @@
 - 👀 I’m interested in Coding, Gaming, Music
 - 🌱 I’m currently learning Python, Go
 - 💞️ I’m looking to collaborate on Blockchain services
-- 📫 How to reach me 
-     Contact me on
+- 📫 Contact me on
      wjddn0918@naver.com
 
 <!---
