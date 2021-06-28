@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imrealbusybee
-- 👀 I’m interested in Coding, Gaming, Music
+- 👀 I’m interested in Coding, Blockchain
 - 🌱 I’m currently learning Python, Go
 - 💞️ I’m looking to collaborate on Blockchain services
 - 📫 Contact me on
