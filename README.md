@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @imrealbusybee
-- 👀 I’m interested in Coding, Blockchain
-- 🌱 I’m currently learning Python, Go
+- 👀 I’m interested in NFT, Metaverse
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on Blockchain services
 - 📫 Contact me on
-     wjddn0918@naver.com
+    
 
 <!---
 imrealbusybee/imrealbusybee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
