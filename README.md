@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @imrealbusybee
 - 👀 I’m interested in NFT, Metaverse
-- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on Blockchain services
-- 📫 Contact me on
     
 
 <!---
